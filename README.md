@@ -1,7 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=90" 
 
 # 👋 Hi there!
-프론트엔드 주니어 개발자 유선건입니다.
+
+* 💻 아직 배울게 많은 주니어 웹 프론트엔드 엔지니어입니다.
+* 🎨 유저를 생각하며 UI/UX 디자인에 관심이 많습니다.
+* 😎 나만의 일을 찾기위해 열심히 노력중입니다.
 
 ✉ Email : dbtjsrjs8282@naver.com<br>
 🖥 Portfolio : [포트폴리오 바로가기](https://tjsrjs8282.github.io/portfolio/)<br>
@@ -22,9 +25,11 @@
 
 # 🖥 My GitHub Status
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?tjsrjs8282=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2tjsrjs8282&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
+![seon geon's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjsrjs8282&show_icons=true&theme=radical)
 
 
-<p align="center">
+<p align="left">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
