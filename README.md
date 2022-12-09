@@ -27,9 +27,12 @@
 # 🖥 My GitHub Status
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjsrjs8282&layout=compact)](https://github.com/tjsrjs8282/github-readme-stats)
-
-![tjsrjs8282's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjsrjs8282&show_icons=true&theme=radical)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tjsrjs8282&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tjsrjs8282&repo=convoychat" />
+</a>
 
 
 <p align="left">
