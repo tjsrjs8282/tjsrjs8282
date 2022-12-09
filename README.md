@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=90" 
 
 # 👋 Hi there!
 프론트엔드 주니어 개발자 유선건입니다.
@@ -21,4 +22,6 @@
 
 # 🖥 My GitHub Status
 <br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?tjsrjs8282=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?tjsrjs8282=anuraghazra&count_private=true)
