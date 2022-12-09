@@ -27,7 +27,7 @@
 # 🖥 My GitHub Status
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjsrjs8282&layout=compact)](https://github.com/tjsrjs8282/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjsrjs8282&layout=compact)](https://github.com/tjsrjs8282/github-readme-stats) -->
 
 ![tjsrjs8282's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjsrjs8282&show_icons=true&theme=transparent)
 
