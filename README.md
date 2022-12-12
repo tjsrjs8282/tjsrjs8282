@@ -9,7 +9,7 @@
 
 ✉ Email : dbtjsrjs8282@naver.com<br>
 🖥 Portfolio : [포트폴리오 바로가기](https://tjsrjs8282.github.io/portfolio/)<br>
-📘 Blog : [새 탭에서 열기](https://sg-coding.tistory.com/){:target="_blank"}
+📘 Blog : [블로그 바로가기](https://sg-coding.tistory.com/)
 <br>
 <br>
 <br>
