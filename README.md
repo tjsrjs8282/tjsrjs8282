@@ -105,6 +105,27 @@
   <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor_AI-000000?style=flat-square&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
+    <img src="https://img.shields.io/badge/Grok-AI_Assistant-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/LM_Studio-Local_AI-222222?style=flat-square" />
+</p>
+
+### AI Video & Creative Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Higgsfield-AI_Video-6C5CE7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Runway-AI_Video-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Kling-AI_Video-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/CapCut-Video_Editing-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Artlist-Creative_Tool-111111?style=flat-square" />
+</p>
+
+### Marketing & Content Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Instagram-Content-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/YouTube-Content-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Analytics-Data-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Search_Console-SEO-458CF5?style=flat-square&logo=google&logoColor=white" />
 </p>
 
 ### Collaboration & Productivity
@@ -138,9 +159,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjsrjs8282&layout=compact&theme=transparent&hide_border=true&title_color=667eea&text_color=999999" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=tjsrjs8282&show_icons=true&theme=tokyonight&hide_border=true&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&bg_color=00000000" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=tjsrjs8282&show_icons=true&theme=transparent&hide_border=true&title_color=667eea&icon_color=764ba2&text_color=999999" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjsrjs8282&layout=compact&theme=tokyonight&hide_border=true&title_color=667eea&text_color=c9d1d9&bg_color=00000000" height="170" />
 
 </div>
 
