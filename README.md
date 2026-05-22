@@ -8,7 +8,7 @@
 * 😎 나만의 일을 찾기위해 열심히 노력중입니다.
 
 ✉ Email : dbtjsrjs8282@naver.com<br>
-🖥 Portfolio : [포트폴리오 바로가기](https://tjsrjs8282.github.io/portfolio/)<br>
+🖥 Portfolio : [포트폴리오 바로가기](https://tjsrjs8282.github.io/portfolio/) (2021년 구)  <br>
 📘 Blog : [블로그 바로가기](https://sg-coding.tistory.com/)
 <br>
 <br>
