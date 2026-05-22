@@ -16,6 +16,7 @@
 </div>
 
 현재 위 포트폴리오 사이트는 2021년도 구버전입니다.
+
 <br />
 
 ---
@@ -32,7 +33,7 @@
 
 ---
 
-## 🧩 Tech Stack
+## 🧩 Tech Stack & Tools
 
 ### Frontend
 
@@ -50,9 +51,9 @@
 ### Styling & UI
 
 <p>
+  <img src="https://img.shields.io/badge/Web_Publishing-667eea?style=flat-square" />
   <img src="https://img.shields.io/badge/Responsive_Web-111827?style=flat-square&logo=googlechrome&logoColor=white" />
   <img src="https://img.shields.io/badge/UI%2FUX-FFB6C1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Web_Publishing-667eea?style=flat-square" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
@@ -67,14 +68,11 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-### Design Tools
+### Deploy & Hosting
 
 <p>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
 </p>
 
 ### Development Tools
@@ -88,11 +86,14 @@
   <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white" />
 </p>
 
-### Deploy & Hosting
+### Design Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
 </p>
 
 ### AI Tools
@@ -102,10 +103,8 @@
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grok-AI_Assistant-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/Cursor_AI-000000?style=flat-square&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
-    <img src="https://img.shields.io/badge/Grok-AI_Assistant-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/LM_Studio-Local_AI-222222?style=flat-square" />
 </p>
 
@@ -159,11 +158,24 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tjsrjs8282&show_icons=true&theme=tokyonight&hide_border=true&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&bg_color=00000000" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tjsrjs8282&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjsrjs8282&layout=compact&theme=tokyonight&hide_border=true&title_color=667eea&text_color=c9d1d9&bg_color=00000000" height="170" />
+<br />
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tjsrjs8282&theme=tokyonight" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tjsrjs8282&theme=tokyonight" height="180" />
+
+<br />
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tjsrjs8282&theme=tokyonight" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tjsrjs8282&theme=tokyonight&utcOffset=9" height="180" />
 
 </div>
+
+<br />
+
 
 
 <div align="center">
