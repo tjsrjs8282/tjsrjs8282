@@ -1,11 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:2b5876&height=230&section=header&text=Frontend%20Developer&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UI%2FUX%20%7C%20Web%20Publishing%20%7C%20React&descSize=18&descAlignY=58)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:2b5876&height=230&section=header&text=AI%20Frontend%20Engineer&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%7C%20UI%2FUX%20%7C%20AI%20Agent%20Engineering&descSize=18&descAlignY=58)
 
 <div align="center">
 
-# 👋 안녕하세요, 프론트엔드 개발자 유선건입니다.
+# 👋 안녕하세요, 하네스 엔지니어링 유선건입니다.
 
 사용자 경험을 고민하며  
-보기 좋고, 쓰기 편한 웹을 만들기 위해 성장하고 있습니다.
+보기 좋고, 쓰기 편한 웹을 만들고 있습니다.
+
+또한 AI 도구와 에이전트 워크플로우를 활용해  
+기획, 디자인, 개발 과정을 더 효율적으로 만드는 방법을 공부하고 있습니다.
 
 <br />
 
@@ -15,7 +18,7 @@
 
 </div>
 
-현재 위 포트폴리오 사이트는 (2019년에 작업한 구버전)입니다.
+현재 위 포트폴리오 사이트는 2019년에 작업한 구버전입니다.
 
 <br />
 
@@ -23,10 +26,11 @@
 
 ## 🙋‍♀️ About Me
 
-- 💻 아직 배울 게 많은 주니어 웹 프론트엔드 엔지니어입니다.
-- 🎨 유저를 생각하는 UI/UX 디자인에 관심이 많습니다.
-- 🧩 웹 퍼블리싱부터 React 기반 화면 구현까지 꾸준히 공부하고 있습니다.
-- 🤖 AI 도구를 활용해 기획, 디자인, 개발 생산성을 높이는 데 관심이 많습니다.
+- 💻 웹 퍼블리싱과 프론트엔드 개발을 기반으로 성장하고 있습니다.
+- 🎨 사용자를 생각하는 UI/UX 디자인과 화면 구현에 관심이 많습니다.
+- ⚛️ HTML, CSS, JavaScript, React를 중심으로 웹 화면을 만들고 있습니다.
+- 🤖 ChatGPT, Claude, Cursor 등 AI 도구를 활용해 기획, 디자인, 개발 생산성을 높이는 방법을 공부하고 있습니다.
+- 🧠 앞으로는 단순 웹 개발을 넘어 AI 에이전트와 업무 자동화 흐름을 다루는 방향으로 성장하고 싶습니다.
 - 🚀 나만의 일을 찾기 위해 계속 도전하고 있습니다.
 
 <br />
