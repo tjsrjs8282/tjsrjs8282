@@ -118,7 +118,6 @@
   <img src="https://img.shields.io/badge/Higgsfield-AI_Video-6C5CE7?style=flat-square" />
     <img src="https://img.shields.io/badge/Morphic-AI_Video-7C3AED?style=flat-square" />
   <img src="https://img.shields.io/badge/Seedance-AI_Video-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Runway-AI_Video-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/Kling-AI_Video-111827?style=flat-square" />
     <img src="https://img.shields.io/badge/Suno-AI_Music-FF6B00?style=flat-square" />
   <img src="https://img.shields.io/badge/CapCut-Video_Editing-000000?style=flat-square" />
