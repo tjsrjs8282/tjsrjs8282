@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" role="img" aria-labelledby="title desc">
   <title id="title">FULL-STACK HARNESS ENGINEERING</title>
-  <desc id="desc">유선건 · GEONY WORKS 대표 — Claude Code를 하네스로, 기획부터 결제·출시·운영까지</desc>
+  <desc id="desc">유선건 · GEONY WORKS 대표 — 기획부터 배포, 실사용자 운영과 수익화까지</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0D0D15"/>
@@ -71,7 +71,7 @@
     <text class="sans title t3" x="60" y="370" fill="#F5F2EA" textLength="614" lengthAdjust="spacingAndGlyphs">ENGINEERING</text>
 
     <!-- sub -->
-    <text class="sans sub" x="64" y="428" font-size="22" font-weight="600" fill="#A1A1AA">기획 · 디자인 · 개발 · 결제 · 출시 · 운영 — <tspan fill="#F5F2EA">끝까지 만듭니다</tspan></text>
+    <text class="sans sub" x="64" y="428" font-size="22" font-weight="600" fill="#A1A1AA">기획 · 개발 · 배포 · 실사용자 · 수익화 — <tspan fill="#F5F2EA">끝까지 만듭니다</tspan></text>
 
     <!-- terminal -->
     <g transform="translate(784 70)">
@@ -80,15 +80,15 @@
       <circle cx="26" cy="22" r="6" fill="#FF5F57"/>
       <circle cx="46" cy="22" r="6" fill="#FEBC2E"/>
       <circle cx="66" cy="22" r="6" fill="#28C840"/>
-      <text class="mono" x="236" y="27" font-size="13" fill="#6B7280" text-anchor="middle">~/geonyworks — claude</text>
+      <text class="mono" x="236" y="27" font-size="13" fill="#6B7280" text-anchor="middle">~/geonyworks — ship</text>
 
       <g class="mono" font-size="17">
-        <g class="ln l1"><text x="26" y="88" fill="#C6F432">$</text><text x="46" y="88" fill="#F5F2EA" font-weight="700">claude</text></g>
-        <g class="ln l2"><text x="26" y="124" fill="#D97757">◆</text><text x="50" y="124" fill="#E5E7EB" font-weight="700">plan</text><text x="140" y="124" fill="#9CA3AF">spec → tasks</text></g>
-        <g class="ln l3"><text x="26" y="160" fill="#D97757">◆</text><text x="50" y="160" fill="#E5E7EB" font-weight="700">agents</text><text x="140" y="160" fill="#9CA3AF">sub-agents · worktrees</text></g>
-        <g class="ln l4"><text x="26" y="196" fill="#D97757">◆</text><text x="50" y="196" fill="#E5E7EB" font-weight="700">tools</text><text x="140" y="196" fill="#9CA3AF">skills · MCP · workflows</text></g>
-        <g class="ln l5"><text x="26" y="232" fill="#D97757">◆</text><text x="50" y="232" fill="#E5E7EB" font-weight="700">verify</text><text x="140" y="232" fill="#9CA3AF">tsc · lint · test · e2e</text><text x="398" y="232" fill="#34D399">✓</text></g>
-        <g class="ln l6"><text x="26" y="268" fill="#D97757">◆</text><text x="50" y="268" fill="#E5E7EB" font-weight="700">ship</text><text x="140" y="268" fill="#9CA3AF">Vercel · Google Play</text><text x="398" y="268" fill="#34D399">✓</text></g>
+        <g class="ln l1"><text x="26" y="88" fill="#C6F432">$</text><text x="46" y="88" fill="#F5F2EA" font-weight="700">geonyworks ship</text></g>
+        <g class="ln l2"><text x="26" y="124" fill="#D97757">◆</text><text x="50" y="124" fill="#E5E7EB" font-weight="700">plan</text><text x="140" y="124" fill="#9CA3AF">idea → spec → tasks</text></g>
+        <g class="ln l3"><text x="26" y="160" fill="#D97757">◆</text><text x="50" y="160" fill="#E5E7EB" font-weight="700">build</text><text x="140" y="160" fill="#9CA3AF">agents · skills · MCP</text></g>
+        <g class="ln l4"><text x="26" y="196" fill="#D97757">◆</text><text x="50" y="196" fill="#E5E7EB" font-weight="700">verify</text><text x="140" y="196" fill="#9CA3AF">tsc · lint · test · e2e</text><text x="398" y="196" fill="#34D399">✓</text></g>
+        <g class="ln l5"><text x="26" y="232" fill="#D97757">◆</text><text x="50" y="232" fill="#E5E7EB" font-weight="700">launch</text><text x="140" y="232" fill="#9CA3AF">Vercel · Google Play</text><text x="398" y="232" fill="#34D399">✓</text></g>
+        <g class="ln l6"><text x="26" y="268" fill="#D97757">◆</text><text x="50" y="268" fill="#E5E7EB" font-weight="700">revenue</text><text x="140" y="268" fill="#9CA3AF">real users · payments</text><text x="398" y="268" fill="#34D399">✓</text></g>
         <g class="ln l7"><text x="26" y="304" fill="#C6F432">$</text><rect class="cur" x="46" y="290" width="10" height="18" fill="#F5F2EA"/></g>
       </g>
     </g>
