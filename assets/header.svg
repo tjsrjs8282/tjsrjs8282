@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" role="img" aria-labelledby="title desc">
+  <title id="title">FULL-STACK HARNESS ENGINEERING</title>
+  <desc id="desc">유선건 · GEONY WORKS 대표 — Claude Code를 하네스로, 기획부터 결제·출시·운영까지</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D0D15"/>
+      <stop offset="1" stop-color="#050508"/>
+    </linearGradient>
+    <radialGradient id="glowBlue">
+      <stop offset="0" stop-color="#3A4BFF" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#3A4BFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowOrange">
+      <stop offset="0" stop-color="#FF5B1F" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#FF5B1F" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowCoral">
+      <stop offset="0" stop-color="#D97757" stop-opacity=".30"/>
+      <stop offset="1" stop-color="#D97757" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="hot" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF5B1F"/>
+      <stop offset=".55" stop-color="#FF8A3D"/>
+      <stop offset="1" stop-color="#FFC56B"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity=".07"/>
+    </pattern>
+    <radialGradient id="fade" cx=".32" cy=".42" r=".8">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="gridMask"><rect width="1280" height="480" fill="url(#fade)"/></mask>
+    <clipPath id="frame"><rect width="1280" height="480" rx="28"/></clipPath>
+  </defs>
+  <style>
+    .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Pretendard','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Helvetica Neue',Arial,sans-serif}
+    .mono{font-family:ui-monospace,SFMono-Regular,'SF Mono','Cascadia Code',Menlo,Consolas,'Liberation Mono','D2Coding',monospace}
+    .title{font-weight:900;font-size:92px;letter-spacing:-3px;animation:rise .7s cubic-bezier(.2,.7,.2,1) both}
+    .t1{animation-delay:.05s}.t2{animation-delay:.2s}.t3{animation-delay:.35s}
+    .sub{animation:rise .7s .6s cubic-bezier(.2,.7,.2,1) both}
+    .ln{animation:rise .5s cubic-bezier(.2,.7,.2,1) both}
+    .l1{animation-delay:.7s}.l2{animation-delay:1.2s}.l3{animation-delay:1.7s}.l4{animation-delay:2.2s}
+    .l5{animation-delay:2.7s}.l6{animation-delay:3.2s}.l7{animation-delay:3.7s}
+    .cur{animation:blink 1.05s steps(1) infinite}
+    .pulse{animation:pulse 2.2s ease-in-out infinite}
+    .f1{animation:f1 16s ease-in-out infinite}
+    .f2{animation:f2 18s ease-in-out infinite}
+    @keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+    @keyframes blink{50%{opacity:0}}
+    @keyframes pulse{50%{opacity:.25}}
+    @keyframes f1{50%{transform:translate(-46px,34px)}}
+    @keyframes f2{50%{transform:translate(56px,-28px)}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="480" fill="url(#bg)"/>
+    <circle class="f1" cx="1140" cy="30" r="400" fill="url(#glowBlue)"/>
+    <circle class="f2" cx="110" cy="520" r="380" fill="url(#glowOrange)"/>
+    <circle cx="1000" cy="420" r="240" fill="url(#glowCoral)"/>
+    <rect width="1280" height="480" fill="url(#grid)" mask="url(#gridMask)"/>
+
+    <!-- kicker -->
+    <circle class="pulse" cx="70" cy="80" r="6" fill="#C6F432"/>
+    <text class="mono" x="88" y="86" font-size="18" letter-spacing="2" fill="#A1A1AA">GEONY WORKS · CEO 유선건</text>
+
+    <!-- title -->
+    <text class="sans title t1" x="60" y="186" fill="#F5F2EA" textLength="555" lengthAdjust="spacingAndGlyphs">FULL-STACK</text>
+    <text class="sans title t2" x="60" y="278" fill="url(#hot)" textLength="433" lengthAdjust="spacingAndGlyphs">HARNESS</text>
+    <text class="sans title t3" x="60" y="370" fill="#F5F2EA" textLength="614" lengthAdjust="spacingAndGlyphs">ENGINEERING</text>
+
+    <!-- sub -->
+    <text class="sans sub" x="64" y="428" font-size="22" font-weight="600" fill="#A1A1AA">기획 · 디자인 · 개발 · 결제 · 출시 · 운영 — <tspan fill="#F5F2EA">끝까지 만듭니다</tspan></text>
+
+    <!-- terminal -->
+    <g transform="translate(784 70)">
+      <rect width="436" height="340" rx="18" fill="#0E0F17" fill-opacity=".94" stroke="#FFFFFF" stroke-opacity=".10"/>
+      <path d="M0 44H436" stroke="#FFFFFF" stroke-opacity=".07"/>
+      <circle cx="26" cy="22" r="6" fill="#FF5F57"/>
+      <circle cx="46" cy="22" r="6" fill="#FEBC2E"/>
+      <circle cx="66" cy="22" r="6" fill="#28C840"/>
+      <text class="mono" x="236" y="27" font-size="13" fill="#6B7280" text-anchor="middle">~/geonyworks — claude</text>
+
+      <g class="mono" font-size="17">
+        <g class="ln l1"><text x="26" y="88" fill="#C6F432">$</text><text x="46" y="88" fill="#F5F2EA" font-weight="700">claude</text></g>
+        <g class="ln l2"><text x="26" y="124" fill="#D97757">◆</text><text x="50" y="124" fill="#E5E7EB" font-weight="700">plan</text><text x="140" y="124" fill="#9CA3AF">spec → tasks</text></g>
+        <g class="ln l3"><text x="26" y="160" fill="#D97757">◆</text><text x="50" y="160" fill="#E5E7EB" font-weight="700">agents</text><text x="140" y="160" fill="#9CA3AF">sub-agents · worktrees</text></g>
+        <g class="ln l4"><text x="26" y="196" fill="#D97757">◆</text><text x="50" y="196" fill="#E5E7EB" font-weight="700">tools</text><text x="140" y="196" fill="#9CA3AF">skills · MCP · workflows</text></g>
+        <g class="ln l5"><text x="26" y="232" fill="#D97757">◆</text><text x="50" y="232" fill="#E5E7EB" font-weight="700">verify</text><text x="140" y="232" fill="#9CA3AF">tsc · lint · test · e2e</text><text x="398" y="232" fill="#34D399">✓</text></g>
+        <g class="ln l6"><text x="26" y="268" fill="#D97757">◆</text><text x="50" y="268" fill="#E5E7EB" font-weight="700">ship</text><text x="140" y="268" fill="#9CA3AF">Vercel · Google Play</text><text x="398" y="268" fill="#34D399">✓</text></g>
+        <g class="ln l7"><text x="26" y="304" fill="#C6F432">$</text><rect class="cur" x="46" y="290" width="10" height="18" fill="#F5F2EA"/></g>
+      </g>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="1279" height="479" rx="27.5" fill="none" stroke="#FFFFFF" stroke-opacity=".08"/>
+</svg>
